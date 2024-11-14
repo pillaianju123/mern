@@ -1,0 +1,44 @@
+.box {
+    width: 1500px;          
+    height: 800px;         
+    background-color: #060606; 
+    border: 2px solid #333;    
+    border-radius: 8px;        
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3); 
+    margin-left: 5px;
+    margin-right:3px;
+    padding: 150px;
+    padding-left: 50px;
+    padding-right: 100px;
+    
+
+    
+  }
+  .box2{
+    width: 1500px;          
+    height: 1900px;         
+    background-color: #060606; 
+    border: 2px solid #333;    
+    border-radius: 8px;        
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3); 
+    margin-left: 5px;
+    margin-right:3px;
+    padding: 150px;
+    padding-left: 50px;
+    padding-right: 100px;
+
+  }
+  footer a:hover {
+    color: #f1c40f;
+    text-decoration: underline;
+  }
+  .dns{
+    width: 100px;
+  }
+  .dns1{
+    width:600px;
+  }
+ .img1{
+  width:600px;
+  height: 400px;
+ }
